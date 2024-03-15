@@ -45,13 +45,13 @@ _Programación_
   - 2. Variables
 - Elemento 3
 
-### Ordenadas
+### Último dado
 
-1. Primer elemento
-   1. Subelemento A
-   2. Subelemento B
-2. Segundo elemento
-3. Tercer elemento
+1. Arrays
+   1. Arrays de una dimensión
+   2. Arrays bidimensionales
+2. Funciones
+3. Programación orientada a objetos
 
 ### Snippets de código y citas
 
