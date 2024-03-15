@@ -68,7 +68,7 @@ System.out.println ("Esto es un snippets a lo casual");
 [enlace externo](https://www.markdownguide.org/getting-started/)
 
 #### Imagenes
-![foto del logo de la web]([https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain](https://wallpapercave.com/wp/wp7250087.jpg))
+![foto del logo de la web]([https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain](https://wallpapercave.com/wp/wp7250087.jpg/)
 
 ##### Foto Local
 ![foto de el equipo](./princesita.jpg)
